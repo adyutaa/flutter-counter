@@ -4,7 +4,7 @@ FLutter counter App created for learning purposes.
 
 ## Documentation
 
-![Flutter Counter App]([img.png])
+![Flutter Counter App](img.png)
 
 
 
